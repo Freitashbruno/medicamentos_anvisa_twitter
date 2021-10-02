@@ -46,3 +46,25 @@ https://colab.research.google.com/gist/Freitashbruno/af8e5cbdb578761d3988bc92409
 
 COLECALCIFEROL(princípio ativo):
 https://colab.research.google.com/gist/Freitashbruno/84fb91c1944588af85bda287c77669fe/twitter_medicamentosv2_colecalciferol.ipynb?authuser=2
+
+Atualizamos nossas buscas no Twitter e realizamos coleta de dados com termos atuais.
+
+DIPIRONA
+https://colab.research.google.com/gist/Freitashbruno/8c87c6337e6a9f1b503547f9f68500ff/twitter_medicamentos_dipirona.ipynb
+
+LOSARTANA
+https://colab.research.google.com/gist/Freitashbruno/e0831efd87eb597c7e5be7eed0792fd8/twitter_medicamentos_losartana.ipynb
+
+ASTRAZENECA
+https://colab.research.google.com/gist/Freitashbruno/01b88ffea291fc327ed2b94591270a92/twitter_vacina_astrazeneca.ipynb
+
+CORONAVAC
+https://colab.research.google.com/gist/Freitashbruno/011fd249d2f9efb24a04bebb49add325/twitter_vacina_coronavac.ipynb
+
+JANSSEN
+https://colab.research.google.com/gist/Freitashbruno/e83b8977bc2d1e80bdd5fd56692993c3/twitter_vacina_janssen.ipynb
+
+PFIZER
+https://colab.research.google.com/gist/Freitashbruno/aba2667b58dc9c4c01f8f088ab2965b3/twitter_vacina_pfizer.ipynb
+
+
